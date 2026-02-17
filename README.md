@@ -2,7 +2,8 @@
 
 ## Identitas
 Nama: 
-NIM:
+NIM: 
+KELAS: 
 Program Studi:
 Mata Kuliah: Struktur Data
 

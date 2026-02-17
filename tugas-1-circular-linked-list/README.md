@@ -3,6 +3,7 @@
 ## Identitas
 Nama:
 NIM:
+KELAS:
 
 ## Studi Kasus
 
