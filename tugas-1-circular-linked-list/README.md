@@ -1,9 +1,9 @@
 # TUGAS 1 - Circular Linked List
 
 ## Identitas
-Nama:
-NIM:
-KELAS:
+Nama:  
+NIM:  
+KELAS:  
 
 ## Studi Kasus
 
